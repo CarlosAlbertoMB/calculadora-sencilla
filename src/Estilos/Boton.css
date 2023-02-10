@@ -1,0 +1,41 @@
+.estilo-numero{
+    background-color: rgb(40, 21, 180);
+    color: aliceblue;
+}
+.estilo-operacion{
+    background-color: rgb(144, 9, 228);
+    color: rgb(0, 0, 0);
+}
+.estilo-igual{
+    background-color: rgb(41, 12, 105);
+    color: rgb(255, 255, 255);
+}
+
+.estilo-btn{
+    font-size: 2.3rem;
+    width: 7rem;
+    height: 7rem;
+    border-radius: 1rem;
+}
+
+.estilo-btn:hover{
+    background-color: rgb(61, 57, 100);
+    color: rgb(167, 163, 163);
+}
+
+.estilo-btn:active{
+    background-color: rgb(0, 255, 30);
+    color: rgb(0, 0, 0);
+}
+
+.estilo-clear{
+    width: 75%;
+    background-color: rgb(98, 99, 94);
+    color: rgb(255, 255, 255);
+    grid-column-start: 1;
+    grid-column-end: 5;
+}
+
+.estilo-clear:active{
+    background-color: rgb(178, 8, 8);
+}
